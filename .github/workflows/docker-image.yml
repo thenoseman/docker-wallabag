@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: thenoseman/docker-ttrss:latest
+          tags: thenoseman/docker-wallabag:latest
